@@ -1,4 +1,3 @@
-👨🏻‍💻 Hey, I'm @FastDemo. I am a starter programmer who is interested in making games and website.
-🧳 I made in-website games, games on Unity, Scratch and Roblox.
-📞 You can contact me by DMing me on Twitter @bloxyfast.
-🎥 I am also a Small YouTuber who plays Roblox games, G3PlaysRoblox.
+👨🏻‍💻 Hey, I'm @FastDemo. I am a starter programmer who is interested in making games and websites.
+🧳 I have experience in making online and offline games on Unity, Visual Studio, Scratch, and Roblox.
+✨ I also have quite some experience in graphic designing!
