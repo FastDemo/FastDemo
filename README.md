@@ -9,8 +9,8 @@ $$ |     \$$$$$$$ |$$$$$$$  |  \$$$$  |\$$$$$$$\ \$$$$$$  |\$$$$$$$ |\$$$$$$$\
 \__|      \_______|\_______/    \____/  \_______| \______/  \_______| \_______| (aka @fastdemo)       
 ```
 
-hey there, looking forward to building cool apps and websites!!
+hey there, amateur coder looking forward to building cool apps and websites!!
 
-this github is just a public repository that houses all my projects, files and apps. for now, none of them are intended for commercial usage.
+this github is just a public repository that houses all my projects, files and apps. for now, none of them are intended for commercial use.
 
 but who knows, someday??
